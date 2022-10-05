@@ -70,24 +70,21 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-#visi-misi {
+#promo {
   background-color: yellow;
   color: #ff4500;
 }
-.visi {
-  font-size: 20px;
-  color: #ff4500;
+.promo-titlee {
+  font-size: 50px;
 }
-.misi {
-  font-size: 20px;
-  color: #ff4500;
+#promosi {
+  background-color: yellow;
 }
-.misi-caption {
-  color: #000;
+.promosi-titlee {
+  background-color: #fff;
+  font-size: 30px;
 }
-.visi-caption {
-  color: #000;
-}
+
 #kemitraan {
   background-color: yellow;
 }
